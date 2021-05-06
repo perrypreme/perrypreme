@@ -1,5 +1,7 @@
-### Hi there 👋
-
+## Hi! I'm Pream 👋
+<p align="center">
+ I am a final-year student and expected to graduate this June. I’m excellent at communicating with new people and flexible. I’m outstanding at organizing and planning. I like to use a to-do list to prioritize tasks and have applied for organizing people and projects to all aspects of my work.
+</p>
 <!--
 **perrypreme/perrypreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
