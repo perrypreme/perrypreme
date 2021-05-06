@@ -1,9 +1,29 @@
 ## Hi! I'm Pream 👋
+
+---I am a final-year student and expected to graduate this June. I’m excellent at communicating with new people and flexible. I’m outstanding at organizing and planning. I like to use a to-do list to prioritize tasks and have applied for organizing people and projects to all aspects of my work.
+
+### Skills
+- Analytical Skill; I'm good at interpreting data to see cause and effect and able to use this information to make effective decisions.
+- Communication Skill; I produce clear, well-written reports that can be easily understood.
+- Interpersonal Skills; I’m good at working and communicating within a team to achieve a shared goal.
+
+### Work Experience
+	#### Student internship, June 2020
+	#### Magzune CO,LTD.
+ - Responsible for designing, creating, and testing the project for customer
+ - Analyzing customer requirement to design the best solution and propose to stakeholder
+ - Implemented an iOT project that consists of hardware, API and web application.
+ - Created implementation plans, database design, overview project
+
+<!--
+**perrypreme/perrypreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <p align="center">
  I am a final-year student and expected to graduate this June. I’m excellent at communicating with new people and flexible. I’m outstanding at organizing and planning. I like to use a to-do list to prioritize tasks and have applied for organizing people and projects to all aspects of my work.
 </p>
-<!--
-**perrypreme/perrypreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
