@@ -10,10 +10,12 @@
 ### Work Experience
 #### Student internship, June 2020
 #### Magzune CO,LTD.
- - Responsible for designing, creating, and testing the project for customer
- - Analyzing customer requirement to design the best solution and propose to stakeholder
- - Implemented an iOT project that consists of hardware, API and web application.
- - Created implementation plans, database design, overview project
+ - Responsible for designing, creating, and testing the project for customers.
+ - Analyzing customer requirement to design the best solution and propose to stakeholder 
+ - Created Project Schedule, Scope plans, Database design, Overview project, Presentation to stakeholder, API Flow
+ - Implemented an IoT project that consists of hardware, API, and web application.
+ - Communicate with team member to 
+ - Present project to the stakeholder who is not familiar with programming language.
 
 <!--
 **perrypreme/perrypreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
