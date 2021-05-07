@@ -18,14 +18,14 @@
  - Present project to the stakeholder who is not familiar with programming language.
 
 ### Project
-2020 | Senior Project; Smart Bin
-2020 | Data Structure; Restaurant Review
-2020 | Business Intelligent; Boston housing company
-2019 | Big Data; Toxic Comment
-2019 | Database; Hotel management web app
-2019 | Data Model; Video game sale data modelling
-2018 | Digital electronic and logic design; Automatic Barrier gate of car parking
-2017 | Engineering Exploration; Penguin Slide game (3D running video game)
+ - 2020 | Senior Project; Smart Bin (Not yet)
+ - 2020 | Data Structure; Restaurant Review (Not yet)
+ - 2020 | Business Intelligent; Boston housing company
+ - 2019 | Big Data; Toxic Comment
+ - 2019 | Database; Hotel management web app
+ - 2019 | Data Model; Video game sale data modelling
+ - 2018 | Digital electronic and logic design; Automatic Barrier gate of car parking
+ - 2017 | Engineering Exploration; Penguin Slide game (3D running video game)
 
 <!--
 **perrypreme/perrypreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
